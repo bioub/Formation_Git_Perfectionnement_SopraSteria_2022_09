@@ -13,3 +13,6 @@ Formation Git Perfectionnement pour Sopra Steria du 26/09/2022
 - git rebase --rebase-merges
 - git cherry-pick
 - git cherry-pick --ff
+- git pull
+- git pull --rebase
+- git pull --rebase=merges
